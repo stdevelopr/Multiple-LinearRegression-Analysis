@@ -1,4 +1,4 @@
-#Multuplie regreesion analysis
+# Multiple regreesion analysis
 
 ## Dataset:
 
@@ -20,11 +20,11 @@ Knowing the anual profit of a company and how much it spent in each of these fac
 
   ---
 
-  ### Considerations
+### Considerations
 
-  Multiple linear regression is an extension of a simple linear regression, where we have more independent variables contributing to the value of the dependent variable.(y= b0 + b1x + b2x2 + ... + bnxn)
+Multiple linear regression is an extension of a simple linear regression, where we have more independent variables contributing to the value of the dependent variable.(y= b0 + b1x + b2x2 + ... + bnxn)
 
-  - Adding more variables to a multiple regression does not mean it will offer better predictions. To avoid the overfitting problem, the ideia is to pick the best variables to the model.
-  - When variables are corelated to each other, we have a problem called multicollinearity, and to a better model it should be avoided. The ideal is for all independent variables to be correlated with the dependent variable, but not with each other.
+- Adding more variables to a multiple regression does not mean it will offer better predictions. To avoid the overfitting problem, the ideia is to pick the best variables to the model.
+- When variables are corelated to each other, we have a problem called multicollinearity, and to a better model it should be avoided. The ideal is for all independent variables to be correlated with the dependent variable, but not with each other.
 
-  ---
+---
