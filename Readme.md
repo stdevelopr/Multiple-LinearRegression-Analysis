@@ -28,3 +28,8 @@ Multiple linear regression is an extension of a simple linear regression, where 
 - When variables are corelated to each other, we have a problem called multicollinearity, and to a better model it should be avoided. The ideal is for all independent variables to be correlated with the dependent variable, but not with each other.
 
 ---
+# Results:
+
+## After plotting the data and analysing the variables, it was possible to conclude that the best model to predict the profit of the startups should be research and development.
+#### *The states in wich state they are settled does not have significant influence.
+#### *Althought Research&Delevepment appeared correlated (as research spending increases, so does marketing spending), the most significant and influent variable was R&D, so is the best factor to consider when investing.
